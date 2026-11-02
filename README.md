@@ -158,3 +158,70 @@ Follow the setup instructions in each repository to configure environment variab
 ## 📄 License
 
 A license has not yet been specified for this project.
+
+
+## Real State UI
+
+## Login & Register Page
+
+<img width="1710" height="960" alt="sing up" src="https://github.com/user-attachments/assets/1edcf1cd-eda0-4cdb-a586-4c7b1f4c5ec8" />
+
+<img width="1710" height="959" alt="singin" src="https://github.com/user-attachments/assets/8cc77d71-7816-4f3e-8f2e-76952f000739" />
+
+## Buyer Pages
+
+## Home Page 
+<img width="1710" height="958" alt="buyer home page" src="https://github.com/user-attachments/assets/c0cc8021-2467-4412-bb57-081f30d891b1" />
+
+## Project Section 
+<img width="1710" height="959" alt="project section" src="https://github.com/user-attachments/assets/69af691d-f0ee-4c56-b63e-4fa1b105c9b9" />
+
+## Latest Project Page
+<img width="1710" height="960" alt="latest project section" src="https://github.com/user-attachments/assets/90dc3793-cd0d-448d-9574-fc3580151b76" />
+
+## Our Agent Page 
+
+
+## Question Page 
+<img width="1710" height="961" alt="question section" src="https://github.com/user-attachments/assets/dfce40de-5d8f-4e23-9f7b-f06e8d8a32b4" />
+
+## Customer review 
+<img width="1710" height="958" alt="TESTIMONIALS " src="https://github.com/user-attachments/assets/5267ae42-529a-4df7-9136-63d28f47b338" />
+
+## All Property Page
+![all property](https://github.com/user-attachments/assets/7b39e457-7a28-4dd2-acb6-46a214288d39)
+
+## Favorit Page 
+![favorit page](https://github.com/user-attachments/assets/379fbc79-37b4-4638-b214-ab995788d9df)
+
+## View Property 
+<img width="1710" height="956" alt="view propety " src="https://github.com/user-attachments/assets/15be9cb2-7464-46be-a7f4-9683c3279a4e" />
+
+## My Booking 
+<img width="1710" height="958" alt="my booking" src="https://github.com/user-attachments/assets/7793b984-921f-44c9-8729-6c3e1fb12088" />
+
+## Price Prediction
+<img width="1710" height="959" alt="Price Prediction" src="https://github.com/user-attachments/assets/eb6b4954-fc67-473a-9a23-1ba2aaa11c60" />
+
+## AI Property Assistant 
+<img width="1710" height="958" alt="Al Property Assistant" src="https://github.com/user-attachments/assets/32e439c5-51d8-4ea9-afd3-3df9f056ec1a" />
+
+## Buyer Chat 
+<img width="1710" height="957" alt="buyer chat" src="https://github.com/user-attachments/assets/61327a83-7e29-4b22-8948-4f25cb9430e9" />
+
+
+## Agent Section
+
+## dashborad 
+<img width="1710" height="959" alt="dashborad" src="https://github.com/user-attachments/assets/0a3cdb24-04df-45bb-b69e-a9cd9f57921f" />
+
+## agent property section
+<img width="1710" height="958" alt="Agent Property Section" src="https://github.com/user-attachments/assets/4ab2c632-d7ce-471f-9acf-f508982e197f" />
+
+## booking request section
+<img width="1710" height="957" alt="Booking request" src="https://github.com/user-attachments/assets/a6ca3243-0f78-41b7-93be-eae40508f819" />
+
+## message section 
+<img width="1710" height="957" alt="message" src="https://github.com/user-attachments/assets/b65e8e0e-d56e-43e6-8934-7009ae9e54ec" />
+
+
